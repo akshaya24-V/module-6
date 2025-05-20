@@ -265,6 +265,7 @@ return 0;
 ## RESULT
 
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
+
 	
 
 
